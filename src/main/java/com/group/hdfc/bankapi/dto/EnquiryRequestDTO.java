@@ -1,0 +1,16 @@
+package com.group.hdfc.bankapi.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
+public class EnquiryRequestDTO {
+
+	private String accountNumber;
+	
+}
