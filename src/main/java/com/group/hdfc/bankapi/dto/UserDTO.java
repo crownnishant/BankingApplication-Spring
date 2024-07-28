@@ -24,5 +24,4 @@ public class UserDTO {
 	private String phone;
 	private String alternativePhone;
 //	private String status;
-	
 }
