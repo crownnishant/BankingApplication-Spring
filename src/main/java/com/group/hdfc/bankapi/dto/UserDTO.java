@@ -11,7 +11,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class UserDTO {
 
-	
 	private String firstName;
 	private String lastName;
 	private String otherName;
@@ -24,4 +23,5 @@ public class UserDTO {
 	private String phone;
 	private String alternativePhone;
 //	private String status;
+	
 }
